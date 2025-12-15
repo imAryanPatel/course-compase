@@ -1,7 +1,7 @@
 **Welcome to the Project**
 *Project Info*
 
-Live URL: [Add your deployed project URL here](https://course-compase-opc9.vercel.app/)
+Live URL: [course-compase](https://course-compase-opc9.vercel.app/)
 
 How can I edit this code?
 
