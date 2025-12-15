@@ -1,5 +1,5 @@
-Welcome to the Project
-Project Info
+**Welcome to the Project**
+*Project Info*
 
 Live URL: Add your deployed project URL here
 
